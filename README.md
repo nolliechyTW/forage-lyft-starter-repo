@@ -71,7 +71,7 @@ Throughout this program, I acquired the following skills:
 
 4. Object-Oriented Programming(OOP): Contains code examples and implementations showcasing the application of OOP principles. It includes classes, inheritance, and other OOP concepts relevant to the back-end engineering domain.
 
-5. Test-Driven Development (TDD): I practiced the principles of TDD by writing tests before implementing new functionality. This approach helped me in designing clear requirements, improving code quality, and maintaining a robust test suite.
+5. Test-Driven Development(TDD): I practiced the principles of TDD by writing tests before implementing new functionality. This approach helped me in designing clear requirements, improving code quality, and maintaining a robust test suite.
 
 ## Acknowledgements
 I would like to express my gratitude to Lyft for providing this Back-End Engineering Virtual Experience Program, which has significantly enhanced my skills and knowledge in software architecture, refactoring, unit testing, and test-driven development.
